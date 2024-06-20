@@ -11,7 +11,7 @@ import os
 
 from django.core.wsgi import get_wsgi_application
 
-sys.path.append('/home/Patricio/prakashdiplo')
+sys.path.append('/home/Patricio/mysyte')
 
 
 os.environ.setdefault('DJANGO_SETTINGS_MODULE', 'diplomas2.settings')
